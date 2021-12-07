@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.brickdestroy","l":"com.arcadegame.brickdestroy"}];updateSearchResults();
